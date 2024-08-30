@@ -4,4 +4,4 @@ Oasis InfoByte Web Development Internship Task-3 is about converting temperature
 - HTML
 - CSS
 - JavaScript
-### Website Link: [click here](https://tejaswini-rudra.github.io/OIBGRIP-Task-3/)
+### Website Link: [click here](https://tejaswini-rudra.github.io/OIBSIP_Task-3/)
